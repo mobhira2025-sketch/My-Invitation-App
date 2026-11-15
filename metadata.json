@@ -1,0 +1,8 @@
+{
+  "name": "TruthCheck AI",
+  "description": "An AI-powered social entertainment app to explore statement consistency, answer 5-question AI challenges, and compare answer patterns with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
